@@ -1,0 +1,20 @@
+/****************************** Module Header ******************************\
+*
+* Module Name: RESOURCE.rc - REXX Resource DLL loader - resource file
+*
+* Copyright (c) Christian Langanke 2001
+*
+* ===========================================================================
+*
+* This file is free software.  You can redistribute it and/or modify it under
+* the terms of the GNU Library General Public License as published by the
+* Free Software Foundation, in version 2 as it comes in the "COPYING.LIB"
+* file of this package.
+* This library is distributed in the hope that it will be useful, but WITHOUT
+* ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+* FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Library General Public
+* License for more details.
+*
+\***************************************************************************/
+
+ICON   123  src\iconres.ico

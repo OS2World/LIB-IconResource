@@ -1,0 +1,23 @@
+;****************************** Module Header ******************************\
+;
+; Module Name: RESOURCE.DEF - REXX Resource DLL loader module definition file
+;
+; Copyright (c) Christian Langanke 2001
+;
+; ===========================================================================
+;
+; This file is free software.  You can redistribute it and/or modify it under
+; the terms of the GNU Library General Public License as published by the
+; Free Software Foundation, in version 2 as it comes in the "COPYING.LIB"
+; file of this package.
+; This library is distributed in the hope that it will be useful, but WITHOUT
+; ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+; FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Library General Public
+; License for more details.
+;
+;***************************************************************************/
+LIBRARY RESOURCE
+DESCRIPTION 'REXX Resource DLL loader - Copyright (c) Christian Langanke 2001'
+PROTMODE
+EXPORTS
+    RXLOADTHISRESOURCEDLL = RxLoadThisResourceDll @1

@@ -1,0 +1,10 @@
+(v1.00) iconresource - V1.00 - FREEWARE
+This package shows how to properly use the
+WPS object setting ICON(N)RESOURCE when
+refering to icons delivered in resource
+DLLs. It is also taking care for the
+differences between Warp 3 and Warp 4.
+The package includes a REXX sample cmd and
+source for a REXX-DLL, which is required for
+using ICONRESOURCE under WARP 3.
+Author: C.Langanke@TeamOS2.de
